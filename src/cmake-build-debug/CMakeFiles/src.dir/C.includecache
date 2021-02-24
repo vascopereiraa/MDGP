@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vasco/Workspace/IIA - TP2/src/evolutivo.h
+utils.h
+/Users/vasco/Workspace/IIA - TP2/src/utils.h
+
+/Users/vasco/Workspace/IIA - TP2/src/funcoes.h
+initDados.h
+/Users/vasco/Workspace/IIA - TP2/src/initDados.h
+evolutivo.h
+/Users/vasco/Workspace/IIA - TP2/src/evolutivo.h
+
+/Users/vasco/Workspace/IIA - TP2/src/initDados.h
+
+/Users/vasco/Workspace/IIA - TP2/src/main.c
+stdio.h
+-
+stdlib.h
+-
+utils.h
+/Users/vasco/Workspace/IIA - TP2/src/utils.h
+initDados.h
+/Users/vasco/Workspace/IIA - TP2/src/initDados.h
+evolutivo.h
+/Users/vasco/Workspace/IIA - TP2/src/evolutivo.h
+pesquisaLocal.h
+/Users/vasco/Workspace/IIA - TP2/src/pesquisaLocal.h
+funcoes.h
+/Users/vasco/Workspace/IIA - TP2/src/funcoes.h
+
+/Users/vasco/Workspace/IIA - TP2/src/pesquisaLocal.h
+initDados.h
+/Users/vasco/Workspace/IIA - TP2/src/initDados.h
+
+/Users/vasco/Workspace/IIA - TP2/src/utils.h
+
